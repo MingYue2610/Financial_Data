@@ -1,6 +1,6 @@
 # Financial_Data
 
-###Financial Data Tracker
+Financial Data Tracker
 
 ### To install
 
