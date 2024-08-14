@@ -1,6 +1,26 @@
 date,amount,category,description
-02-08-2024,500.0,Income,Savings
-01-07-2024,1000.0,Income,Salary
-02-07-2024,20.0,Expense,Internet Bill
-10-07-2024,40.0,Expense,Electric
-02-07-2024,754.65,Income,Sold table
+01-01-2024,2000.0,Income,Salary
+15-01-2024,50.0,Expense,Groceries
+03-03-2024,50,Expense,Transportation
+05-04-2024,300,Income,Freelance Work
+11-04-2024,80,Expense,Dining Out
+07-05-2024,500,Income,Stock Dividend
+08-05-2024,200,Expense,Clothing
+30-05-2024,60,Expense,Entertainment
+28-06-2024,1000,Income,Bonus
+11-07-2024,70,Expense,Fuel
+12-07-2024,40,Expense,Coffee
+01-08-2024,200,Income,Gift
+14-08-2024,120,Expense,Gym Membership
+20-08-2024,500,Income,Rent
+25-08-2024,200,Expense,Medical Bills
+27-08-2024,150,Expense,Insurance
+02-09-2024,700,Income,Project Payment
+19-09-2024,90,Expense,Books
+23-09-2024,600,Income,Tutoring
+24-10-2024,100,Expense,Subscription
+26-10-2024,75,Expense,Haircut
+30-10-2024,250,Income,Consulting
+14-11-2024,50,Expense,Parking
+25-11-2024,500,Income,Part-time Job
+
